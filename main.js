@@ -3,4 +3,5 @@ new Pjax({
     selectors: ["#pjax-div"]
 });
 
-alert('An alert box');1.0
+alert('An alert box');
+kkkkk
