@@ -5,4 +5,3 @@ new Pjax({
 
 alert('An alert box');
 
-
