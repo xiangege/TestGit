@@ -5,5 +5,4 @@ new Pjax({
 
 alert('An alert box');
 
-this is a master
 
