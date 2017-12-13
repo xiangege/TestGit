@@ -4,4 +4,3 @@ new Pjax({
 });
 
 alert('An alert box');
-kkkkk  zhei  shi  is a master 
